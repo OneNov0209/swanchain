@@ -21,8 +21,9 @@ https://t.me/AirdropFamilyIDN
 
 
 # BOT SWANCHAIN TESTNET ON TERMUX
+[![AIRDROP FAMILY IDN](https://github.com/AirDropFamilyIDN/swanchain/blob/main/swanchaintermux.png)](https://github.com/AirDropFamilyIDN/swanchain/blob/main/swanchaintermux.png)
 
-Termux fdroid : https://f-droid.org/F-Droid.apk
+- Termux fdroid : https://f-droid.org/F-Droid.apk
 - abis install termux, allow/izinin akses storage/penyimpanan
 - abis itu buka termux install python 3.8 [ kalau error pas install silahkan pake vpn ]
 
