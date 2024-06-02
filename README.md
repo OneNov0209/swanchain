@@ -32,7 +32,7 @@ pkg update && upgrade
 pkg install git
 pkg install tur-repo
 pkg install python-is-python3.8
-pip install -- upgrade pip
+pip install --upgrade pip
 pip install requests
 pip install web3==5.28.0
 pip install py-solc-x
